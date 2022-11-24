@@ -58,9 +58,7 @@
 # :book: 2. 파밍중인 기술
 
 |                            제 목                             |                            목 적                             | 비 고 |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :---: |
-|       [발표](https://github.com/windy825/presentation)       |               지식 이해와 자아를 실현하는 수단               |       |
-| [Computer Graphics](https://github.com/windy825/SVM/tree/master/Computer%20Graphics) |               버드아이 뷰 및 openGL 3D 뷰 연구               |       |
+
 
 <br>
 
