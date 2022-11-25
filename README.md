@@ -68,13 +68,13 @@
 
 |     기 간      |                            제 목                             |                         개발 및 연구                         |    대외 역할     |        총 인원         |
 | :------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------: | :--------------------: |
-| 22.10 ~ 22.11 |   [기업연계 SVM 프로젝트](https://github.com/kim-kihan/SurroundView_Monitor)   |   2D 및 2.5D 버드아이 뷰<br /> Camera calibration    |   팀원    |          6 인          |
-| 22.08 ~ 22.10  |                      [자율주행 무인 택시](https://github.com/kim-kihan/alpha_car)                      |             안드로이드 앱 개발 / ROS 통신             |   팀원    |          6 인          |
-| 22.07 ~ 22.08 |   [무작위 여행 추천 앱 Daero](https://github.com/kim-kihan/Daero)   |   안드로이드 앱 개발<br /> Camera calibration    |   팀원    |          6 인          |
-| 22.07 ~ 22.08 |   [스마트 스토어 카페 앱](https://github.com/kim-kihan/cafe)   |   안드로이드 앱 개발<br /> Camera calibration    |   팀장  / 발표  |          2 인          |
-| 21.04 ~ 21.06 |   [스마트 스토어 앱 YShop](https://github.com/kim-kihan/YShop)   |   안드로이드 앱 개발 <br /> Camera calibration    |   팀장  / 발표  |          5 인          |
-| 20.11 ~ 20.12 |   [점자 노트 앱](https://github.com/kim-kihan/Braille)   |   안드로이드 앱 개발 <br /> Camera calibration    |   발표  |          1 인          |
-| 20.03 ~ 20.05 |   [모바일 쇼핑몰 앱 YUsinsa](https://github.com/kim-kihan/yusinsa)   |   안드로이드 앱 개발 <br /> Camera calibration    |   팀원  / 발표  |          5 인          |
+| 22.10 ~ 22.11 |   [기업연계 SVM 프로젝트](https://github.com/kim-kihan/SurroundView_Monitor)   |   2D 및 2.5D 버드아이 뷰<br /> Camera calibration    |   팀원 / 기획   |          6 인          |
+| 22.08 ~ 22.10  |                      [자율주행 무인 택시](https://github.com/kim-kihan/alpha_car)                      |             안드로이드 앱 개발 / ROS 통신             |   팀원 / 기획   |          6 인          |
+| 22.07 ~ 22.08 |   [무작위 여행 추천 앱 Daero](https://github.com/kim-kihan/Daero)   |   안드로이드 앱 개발    |   팀원 / 기획    |          6 인          |
+| 22.07 ~ 22.08 |   [스마트 스토어 카페 앱](https://github.com/kim-kihan/cafe)   |   안드로이드 앱 개발    |   팀장  / 발표  |          2 인          |
+| 21.04 ~ 21.06 |   [스마트 스토어 앱 YShop](https://github.com/kim-kihan/YShop)   |   안드로이드 앱 개발    |   팀장  / 발표 / 기획  |          5 인          |
+| 20.11 ~ 20.12 |   [점자 노트 앱](https://github.com/kim-kihan/Braille)   |   안드로이드 앱 개발    |   발표  |          1 인 / 기획         |
+| 20.03 ~ 20.05 |   [모바일 쇼핑몰 앱 YUsinsa](https://github.com/kim-kihan/yusinsa)   |   안드로이드 앱 개발    |   팀원  / 발표 / 기획  |          5 인          |
 //springboot
 
 
